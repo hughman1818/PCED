@@ -1,0 +1,4 @@
+C:\Users\Hugh\Desktop\Github\-C_SHARP-\PCED\PCED\PCED\bin\Debug\PCED.dll
+C:\Users\Hugh\Desktop\Github\-C_SHARP-\PCED\PCED\PCED\bin\Debug\PCED.pdb
+C:\Users\Hugh\Desktop\Github\-C_SHARP-\PCED\PCED\PCED\obj\Debug\PCED.dll
+C:\Users\Hugh\Desktop\Github\-C_SHARP-\PCED\PCED\PCED\obj\Debug\PCED.pdb
